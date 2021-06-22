@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "207192437817",
+    "project_id": "rn-auth-1f33f",
+    "storage_bucket": "rn-auth-1f33f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207192437817:android:09f2c8ed084be4303e89e8",
+        "android_client_info": {
+          "package_name": "com.jobfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207192437817-b24ps1j426f18d6en7msfue60rof9mn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnxJNUcj2vrzgTWqzHrvJMV2sOlVbMTnc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207192437817-b24ps1j426f18d6en7msfue60rof9mn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
