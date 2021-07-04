@@ -29,8 +29,8 @@ const Home = ({navigation}) => {
   return (
     <View style={styles.container}>
       <Image
-        // source={{uri: `${photoURL}`}}
-        source={{uri: photoURL}}
+        source={{uri: `${photoURL}`}}
+        // source={{uri: photoURL}}
         style={{width: 150, height: 150, borderRadius: 100, marginBottom: 10}}
       />
       <Text style={{marginBottom: 10, fontSize: 30, fontWeight: 'bold'}}>
